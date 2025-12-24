@@ -3,6 +3,10 @@
   "displayName": "Nono Theme",
   "description": "Mint based Theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markab-j/Nono-Theme"
+  },
   "engines": {
     "vscode": "^1.107.0"
   },
