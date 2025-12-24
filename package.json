@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/markab-j/Nono-Theme"
   },
+  "publisher": "markab-j-nn",
   "engines": {
     "vscode": "^1.107.0"
   },
