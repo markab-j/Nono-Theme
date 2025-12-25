@@ -1,6 +1,6 @@
 # Nono Theme for VS Code
 
-[![version](https://img.shields.io/badge/version-0.0.1-blue)](https://github.com/markab-j/Nono-Theme)
+[![version](https://img.shields.io/badge/version-0.0.2-blue)](https://github.com/markab-j/Nono-Theme)
 [![Visual Studio Marketplace](https://img.shields.io/badge/Marketplace-Nono%20Theme-brightgreen)](https://marketplace.visualstudio.com/items?itemName=markab-j-nn.nono-theme)
 
 A clean and modern theme for Visual Studio Code, with a touch of mint for the accent color. It comes in both light and dark variations to suit your preference.
