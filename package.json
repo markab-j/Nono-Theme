@@ -2,7 +2,7 @@
   "name": "nono-theme",
   "displayName": "Nono Theme",
   "description": "Mint based Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "assets/icon.png",
   "repository": {
     "type": "git",
